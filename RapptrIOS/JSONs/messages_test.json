@@ -1,0 +1,16 @@
+{ "data" :
+    [
+        { "user_id" : "1", "name" : "James", "avatar_url" : "", "message" : "Hey Guys!" },
+        { "user_id" : "2", "name" : "Paul", "avatar_url" : "", "message" : "What's up?" },
+        { "user_id" : "3", "name" : "Amy", "avatar_url" : "", "message" : "Hey! :)" },
+        { "user_id" : "1", "name" : "James", "avatar_url" : "", "message" : "Want to grab some food later?" },
+        { "user_id" : "2", "name" : "Paul", "avatar_url" : "", "message" : "Sure, time and place?" },
+        { "user_id" : "3", "name" : "Amy", "avatar_url" : "", "message" : "YAS! I am starving!!!" },
+        { "user_id" : "1", "name" : "James", "avatar_url" : "", "message" : "1 hr at the Local Burger sound good?" },
+        { "user_id" : "2", "name" : "Paul", "avatar_url" : "", "message" : "Sure thing" },
+        { "user_id" : "3", "name" : "Amy", "avatar_url" : "", "message" : "See you there :P" }
+    ]
+}
+
+
+
